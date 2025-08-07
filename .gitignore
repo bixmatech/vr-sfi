@@ -32,3 +32,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+node_modules
+.next
+.env
+.DS_Store
+coverage
